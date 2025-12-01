@@ -1,2 +1,6 @@
 # sdet-playwright
-A beginner-friendly Playwright automation framework with UI, API and POM-based tests.
+
+![CI](https://github.com/kadampushkar25-cpu/sdet-playwright/actions/workflows/playwright.yml/badge.svg)
+
+A beginner-friendly Playwright framework...
+
